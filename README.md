@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-Hi, I’m Preetham Kumar, a passionate Web Developer and Blockchain Develop
+Hi, I’m Preetham Kumar, a passionate Web Developer and Blockchain Developer
 
 - 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently learning TypeScript
@@ -75,7 +75,7 @@ Hi, I’m Preetham Kumar, a passionate Web Developer and Blockchain Develop
 <tr>
       <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wish-nu&theme=radical&layout=compact)](https://github.com/appujet)</td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wish-nu&theme=radical&layout=compact)](https://github.com/Wish-nu)</td>
   <td>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Wish-nu&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
